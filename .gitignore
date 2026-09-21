@@ -102,6 +102,8 @@ ead-platform/ead-platform/dist/
 
 ### Angular/Vite/Webpack build ###
 src/main/resources/static/
+ead-platform/src/main/resources/static/
+exportToHTML/
 
 ### =========================
 ### Test / Coverage
